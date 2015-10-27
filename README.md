@@ -1,0 +1,5 @@
+# Imaginarium
+一个简单UIImageView嵌套于UIScrollView
+
+斯坦福大学iOS课程 ScrollView的滑动，缩放
+一个简单UIImageView嵌套于UIScrollView
